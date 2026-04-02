@@ -444,7 +444,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <p className="text-white/50 text-sm uppercase tracking-widest">Email</p>
-                    <p className="text-lg font-medium">contact@drjewelrana.com</p>
+                    <p className="text-lg font-medium">dr.jewelrana@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-6">
